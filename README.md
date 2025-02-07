@@ -17,7 +17,8 @@ Welcome to the **Animated Fanta Landing Page**! This project is a visually appea
 
 ## 📷 Preview
 
-![Landing Page Screenshot](preview.png) *(Add an actual screenshot of your project here)*
+![image](https://github.com/user-attachments/assets/7318a091-1d31-436d-adfc-def4f8070cfd)
+ *(Add an actual screenshot of your project here)*
 
 ## 🎬 Demo
 
